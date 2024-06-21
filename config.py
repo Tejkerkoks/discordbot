@@ -1,0 +1,5 @@
+TOKEN ="yourtoken"
+DB_HOST = 'your db host'
+DB_USER = 'your db username'
+DB_PASSWORD = ' your db password'
+DB_NAME = 'your db name'
